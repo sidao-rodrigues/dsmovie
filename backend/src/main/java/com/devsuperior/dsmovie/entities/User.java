@@ -20,7 +20,6 @@ public class User {
 	}
 
 	public User(Long id, String email) {
-		super();
 		this.id = id;
 		this.email = email;
 	}
